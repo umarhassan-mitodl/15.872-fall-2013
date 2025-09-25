@@ -59,7 +59,7 @@ Mostly graduate students, a few undergrads.
 
 ### Breakdown by Major
 
-Mostly Sloan MBAs and {{% resource_link "075f779c-4903-42dc-bb7e-c5b01737224f" "Sloan Fellows" %}}, some {{% resource_link "ea5d735f-9a3e-4a22-a213-4a2573e446b4" "LGOs" %}}, students from the {{% resource_link "f4ba79a3-b37b-40d4-9a71-f11d8bedbf1b" "Master of Science in Management Studies (MSMS)" %}} and PhD programs, and a few students from Harvard Kennedy and other local schools.
+Mostly Sloan MBAs and [Sloan Fellows](http://mitsloan.mit.edu/fellows/), some [LGOs](http://lgo.mit.edu), students from the [Master of Science in Management Studies (MSMS)](https://mitsloan.mit.edu/msms/master-science-management-studies) and PhD programs, and a few students from Harvard Kennedy and other local schools.
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
