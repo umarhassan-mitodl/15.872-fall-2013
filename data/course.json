@@ -52,7 +52,7 @@
     "content": "582132e4-a8e6-ed10-edaf-7084d56a8053",
     "website": "15-872-system-dynamics-ii-fall-2013"
   },
-  "hide_download_original": null,
+  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Instructor Insights"
