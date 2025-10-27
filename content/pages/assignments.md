@@ -29,7 +29,7 @@ ADDITIONAL MATERIALS
 {{< tdopen >}}
 
 
-Krauss, Clifford, and Eric Lipton. "[After the Boom in Natural Gas](http://www.nytimes.com/2012/10/21/business/energy-environment/in-a-natural-gas-glut-big-winners-and-losers.html?pagewanted=all&_r=1&)," _New York Times_, October 21, 2012, p. BU1.
+Krauss, Clifford, and Eric Lipton. "{{% resource_link "2b08372d-ef9d-49f9-b89c-675d1f8faff1" "After the Boom in Natural Gas" %}}," _New York Times_, October 21, 2012, p. BU1.
 
 {{% resource_link 87be2268-89e2-d159-74f7-177f278244be "TestGen (MDL)" %}}
 

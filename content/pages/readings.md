@@ -89,7 +89,7 @@ Boom and Bust: Real Estate, Shipbuilding, Commodities, Financial Markets
 
 \[BD\] Read Sections 17.4, and 17.5.
 
-Skim Randersa, Jørgen, and Ulrich Gölukeb. "[Forecasting Turning Points in Shipping Freight Rates](http://dx.doi.org/10.1002/sdr.376)." _System Dynamics Review_ 23, no. 2–3 (2007): 253–84.
+Skim Randersa, Jørgen, and Ulrich Gölukeb. "{{% resource_link "e0ceae1e-9547-4974-884d-3faf67eaa0b2" "Forecasting Turning Points in Shipping Freight Rates" %}}." _System Dynamics Review_ 23, no. 2–3 (2007): 253–84.
 
 
 {{< tdclose >}}
@@ -129,9 +129,9 @@ System Dynamics in Action: Applications of System Dynamics to Environmental and 
 {{< tdopen >}}
 
 
-Meadows, et. al. Chapter 8 in _Limits to Growth: 30-Year Update_. Chelsea Green Publishing, 2004. ISBN: 9781931498586. \[Preview with [Google Books](http://books.google.com/books?id=QRyQiINGW6oC&pg=PA265=onepage)\] (excerpts)
+Meadows, et. al. Chapter 8 in _Limits to Growth: 30-Year Update_. Chelsea Green Publishing, 2004. ISBN: 9781931498586. \[Preview with {{% resource_link "052ef88a-c653-43d7-a2b3-3364c7f5c42a" "Google Books" %}}\] (excerpts)
 
-Meadows. _The Global Citizen_. Island Press, 1991. ISBN: 9781559630597. \[Preview with [Google Books](http://books.google.com/books?id=8yE5PzCacXoC&pg=PAfrontcover)\] (selections)
+Meadows. _The Global Citizen_. Island Press, 1991. ISBN: 9781559630597. \[Preview with {{% resource_link "6ea42a17-f7f4-4811-ade3-de0b18d4c84c" "Google Books" %}}\] (selections)
 
 
 {{< tdclose >}}
@@ -149,7 +149,7 @@ Meet LEW: Late, Expensive, and Wrong: The Dynamics of Project Management
 
 \[BD\] Read Sections 2.3, and 6.3.4.
 
-Liption, E., I. Austen, and S. LaFraniere. "[Tension and Flaws Before Health Website Crash](http://www.nytimes.com/2013/11/23/us/politics/tension-and-woes-before-health-website-crash.html?adxnnl=1&adxnnlx=1395425936-PbAsSIrHEJCvUMEMgENFUA&_r=0)," _New York Times_, November 22, 2013.
+Liption, E., I. Austen, and S. LaFraniere. "{{% resource_link "7f7e28b6-0d53-4c96-9d2f-d932a667583b" "Tension and Flaws Before Health Website Crash" %}}," _New York Times_, November 22, 2013.
 
 
 {{< tdclose >}}
@@ -167,7 +167,7 @@ Project Dynamics Modeling in the Real World
 
 \[BD\] Read Chapter 2.3.
 
-Godlewski, E., G. Lee, et al. "[System Dynamics Transofrms Fluor Project and Change Management](http://dx.doi.org/10.1287/inte.1110.0595)." _Interfaces_ 42, no. 1 (2012): 17-32.
+Godlewski, E., G. Lee, et al. "{{% resource_link "3f149f52-fcaf-4c4b-b0cd-ad8ad3c6dad6" "System Dynamics Transofrms Fluor Project and Change Management" %}}." _Interfaces_ 42, no. 1 (2012): 17-32.
 
 
 {{< tdclose >}}
@@ -181,7 +181,7 @@ Godlewski, E., G. Lee, et al. "[System Dynamics Transofrms Fluor Project and Cha
 Getting Things Done: Firefighting, Capability Traps, and Death Spirals
 {{< tdclose >}}
 {{< tdopen >}}
-Read Repenning, Nelson, and John Sterman. ["Nobody Ever Gets Credit for Fixing Problems that Never Happened." (PDF)](http://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf) _California Management Review_ 43, no. 4 (2001): 64-88.
+Read Repenning, Nelson, and John Sterman. {{% resource_link "7aa355f1-a444-494f-9521-e9f33069668f" "\"Nobody Ever Gets Credit for Fixing Problems that Never Happened.\" (PDF)" %}} _California Management Review_ 43, no. 4 (2001): 64-88.
 {{< tdclose >}}
 
 {{< trclose >}}
